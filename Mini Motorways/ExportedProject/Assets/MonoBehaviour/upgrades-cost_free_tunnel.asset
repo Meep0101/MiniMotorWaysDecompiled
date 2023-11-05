@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1835265200, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: upgrades-cost_free_tunnel
+  m_EditorClassIdentifier:
+  challengeName: Challenge_Upgrades_CostFreeTunnelTitle
+  challengeDescription: Challenge_Upgrades_CostFreeTunnelDescription
+  icon: {fileID: 21300000, guid: af7c2024c78ef884cbe1658acc0ec25c, type: 2}
+  subIconBackground: {fileID: 21300000, guid: f6fbbdb87c1e267409bf05b3d705c3c3, type: 2}
+  subIcon: {fileID: 21300000, guid: 5fd061c3df87a40429ad95ae08f3a88e, type: 2}
+  modifiers:
+  - type: 24
+    upgradeType: 5
+    intParameter: 0
+    fix64Parameter:
+      m_rawValue: 0
+  modifierToUseForLocalization: 0
+  incompatibleMaps:
+  incompatibleCityGroups:
+  - {fileID: 11400000, guid: 01a4968c29c9cc247a4c16e87bbc6187, type: 2}
+  automaticIncompatibleChallenges:
+  - {fileID: 11400000, guid: fd1d4458bc590074daced8f7832f3390, type: 2}
+  - {fileID: 11400000, guid: 2362199c56946124cb6ef4dd82eb2c97, type: 2}
+  - {fileID: 11400000, guid: 946e8a538f128ab4c8688d8fdba1dfd2, type: 2}
+  - {fileID: 11400000, guid: 74d7ccb95526041439925c728416437c, type: 2}
+  - {fileID: 11400000, guid: 824c6ed6059a86a47842cb8857abc318, type: 2}
+  - {fileID: 11400000, guid: cdfd3154c29249e49b537ca9b6b958a1, type: 2}
+  - {fileID: 11400000, guid: 7a44df92ae612a44cb684dfcdea6be0b, type: 2}
+  - {fileID: 11400000, guid: b703d25cc36a71a4eba45ba1d398fe28, type: 2}
+  - {fileID: 11400000, guid: 0f23fd98a3a55ad4a83dfee515f327eb, type: 2}
+  - {fileID: 11400000, guid: 6f717874885de0f43bf3cdf438045a26, type: 2}
+  - {fileID: 11400000, guid: 8d952aa85025ae94a93016b3c7fe05e8, type: 2}
+  - {fileID: 11400000, guid: 1b63cbf9fd6f2c1489c4275ef29e26f3, type: 2}
+  manualIncompatibleChallenges: []

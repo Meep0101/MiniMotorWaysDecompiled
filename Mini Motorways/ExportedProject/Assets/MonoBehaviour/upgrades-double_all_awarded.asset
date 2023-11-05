@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1835265200, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: upgrades-double_all_awarded
+  m_EditorClassIdentifier:
+  challengeName: Challenge_Upgrades_DoubleUpgradesTitle
+  challengeDescription: Challenge_Upgrades_DoubleUpgradesDescription
+  icon: {fileID: 21300000, guid: 6ced44bf09b00ef449d69e849d2255dc, type: 2}
+  subIconBackground: {fileID: 21300000, guid: 587e26e7c8d345549aafe09a902cf62a, type: 2}
+  subIcon: {fileID: 21300000, guid: 6d4924a833c3bb04f958ed9424bd376b, type: 2}
+  modifiers:
+  - type: 3
+    upgradeType: 0
+    intParameter: 0
+    fix64Parameter:
+      m_rawValue: 8589934592
+  - type: 3
+    upgradeType: 1
+    intParameter: 0
+    fix64Parameter:
+      m_rawValue: 8589934592
+  - type: 3
+    upgradeType: 2
+    intParameter: 0
+    fix64Parameter:
+      m_rawValue: 8589934592
+  - type: 3
+    upgradeType: 3
+    intParameter: 0
+    fix64Parameter:
+      m_rawValue: 8589934592
+  - type: 3
+    upgradeType: 5
+    intParameter: 0
+    fix64Parameter:
+      m_rawValue: 8589934592
+  - type: 3
+    upgradeType: 4
+    intParameter: 0
+    fix64Parameter:
+      m_rawValue: 8589934592
+  modifierToUseForLocalization: 0
+  incompatibleMaps:
+  incompatibleCityGroups: []
+  automaticIncompatibleChallenges:
+  - {fileID: 11400000, guid: fd1d4458bc590074daced8f7832f3390, type: 2}
+  - {fileID: 11400000, guid: 543609120b70ba64db827fcff36fe4ad, type: 2}
+  - {fileID: 11400000, guid: fb4e3ff438ccc5d47b69405a17b90a33, type: 2}
+  - {fileID: 11400000, guid: 3ae8d9b09258ca2488fac4c8ebc4221b, type: 2}
+  - {fileID: 11400000, guid: a705c6a3e29697442bd39b5482030bff, type: 2}
+  - {fileID: 11400000, guid: 2bdd7eeaf6db14e4095de0d8ec5723bf, type: 2}
+  - {fileID: 11400000, guid: b3f827fe8285ea1458f231216877c178, type: 2}
+  - {fileID: 11400000, guid: 3d90ebe0b57df864aa3aa2b3f9c06eca, type: 2}
+  - {fileID: 11400000, guid: 2362199c56946124cb6ef4dd82eb2c97, type: 2}
+  - {fileID: 11400000, guid: b1415f5bed4fa234d8dd6ff9ab736588, type: 2}
+  - {fileID: 11400000, guid: ac402b47406aee946a9e80c9c0373145, type: 2}
+  - {fileID: 11400000, guid: 58aeee691fde7524882ccc4807d65465, type: 2}
+  - {fileID: 11400000, guid: 946e8a538f128ab4c8688d8fdba1dfd2, type: 2}
+  - {fileID: 11400000, guid: 4f9e36ed510711a4c83da3c750d78f22, type: 2}
+  - {fileID: 11400000, guid: a0e4f5e8b146dd149b592a50195b973a, type: 2}
+  - {fileID: 11400000, guid: 74d7ccb95526041439925c728416437c, type: 2}
+  - {fileID: 11400000, guid: faa46805028156f44a066e9d975dccaa, type: 2}
+  - {fileID: 11400000, guid: 2eb16d370f6242a4eb030f97953986d8, type: 2}
+  - {fileID: 11400000, guid: 824c6ed6059a86a47842cb8857abc318, type: 2}
+  - {fileID: 11400000, guid: d24cc988302c30240ae17ccb0782f9de, type: 2}
+  - {fileID: 11400000, guid: bae81cace21a6524c835484ff77ee5e6, type: 2}
+  - {fileID: 11400000, guid: 6f717874885de0f43bf3cdf438045a26, type: 2}
+  - {fileID: 11400000, guid: 407fa6596ea1721419e881155df19ef1, type: 2}
+  - {fileID: 11400000, guid: 48289363c3dd0de43a8aa0de5f768284, type: 2}
+  - {fileID: 11400000, guid: ea2192a342ddcc54e970d387d169f447, type: 2}
+  - {fileID: 11400000, guid: 8d952aa85025ae94a93016b3c7fe05e8, type: 2}
+  - {fileID: 11400000, guid: cf3e2de97a9f07d42988e1c897b16a41, type: 2}
+  - {fileID: 11400000, guid: 399c1138456be9148ac8a31d90b03e16, type: 2}
+  - {fileID: 11400000, guid: 97becdec2e0b1484fbd07c0c06260917, type: 2}
+  - {fileID: 11400000, guid: dfd8166fb9bcf554e83b4463a4812bc3, type: 2}
+  manualIncompatibleChallenges:
+  - {fileID: 11400000, guid: 84cda7d3f9c520f4dbdcf935973c2c9b, type: 2}

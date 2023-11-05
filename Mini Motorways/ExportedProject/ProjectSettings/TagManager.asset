@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shadow
+  - NexAssetsRankingParamText
+  - NexAssetsRankingHeaderText
+  - NexAssetsRanking2HeaderText
+  - NexAssetsRanking2ParamText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - CapturableUI
+  - FocusPoint
+  - Overlay
+  - Shadow
+  - Motorway
+  - HeadlightOcclusion
+  - Headlight
+  - HeadlightOcclusionMountain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 2305090813
+    locked: 0
+  - name: AboveWater
+    uniqueID: 3067147093
+    locked: 0
+  - name: Landscape
+    uniqueID: 3482121133
+    locked: 0
+  - name: AboveLandscape
+    uniqueID: 1277035551
+    locked: 0
+  - name: RoadOutline
+    uniqueID: 4084880435
+    locked: 0
+  - name: CarparkRoad
+    uniqueID: 2997829395
+    locked: 0
+  - name: CarparkOutline
+    uniqueID: 1963891411
+    locked: 0
+  - name: MotorwayRoadConnectionOutline
+    uniqueID: 349462965
+    locked: 0
+  - name: Road
+    uniqueID: 3968160567
+    locked: 0
+  - name: BridgeSpouts
+    uniqueID: 1429170141
+    locked: 0
+  - name: Rails
+    uniqueID: 264410085
+    locked: 0
+  - name: CarShadow
+    uniqueID: 3263345525
+    locked: 0
+  - name: Car
+    uniqueID: 4250702749
+    locked: 0
+  - name: OverpassOutline
+    uniqueID: 609843847
+    locked: 0
+  - name: Overpass
+    uniqueID: 3204090923
+    locked: 0
+  - name: OverpassCarShadow
+    uniqueID: 1815563917
+    locked: 0
+  - name: OverpassCar
+    uniqueID: 3125008991
+    locked: 0
+  - name: OverpassCarHeadlight
+    uniqueID: 3216993533
+    locked: 0
+  - name: TreeShadow
+    uniqueID: 3756271189
+    locked: 0
+  - name: HouseShadow
+    uniqueID: 2960333869
+    locked: 0
+  - name: Train
+    uniqueID: 1471472691
+    locked: 0
+  - name: CircleDestinationShadow
+    uniqueID: 3026602337
+    locked: 0
+  - name: SquareDestinationShadow
+    uniqueID: 2175511591
+    locked: 0
+  - name: TimeoutCircle
+    uniqueID: 3477870767
+    locked: 0
+  - name: Tree
+    uniqueID: 3561630841
+    locked: 0
+  - name: MountainShadow
+    uniqueID: 1092598097
+    locked: 0
+  - name: BuildingLower
+    uniqueID: 419528999
+    locked: 0
+  - name: BuildingUpper
+    uniqueID: 433200601
+    locked: 0
+  - name: CircleDestinationLower
+    uniqueID: 3052419329
+    locked: 0
+  - name: SquareDestinationLower
+    uniqueID: 2920522945
+    locked: 0
+  - name: SharedDestinationLower
+    uniqueID: 57487137
+    locked: 0
+  - name: CircleDestinationUpper
+    uniqueID: 4104429807
+    locked: 0
+  - name: SquareDestinationUpper
+    uniqueID: 1635374049
+    locked: 0
+  - name: SharedDestinationUpper
+    uniqueID: 3589845037
+    locked: 0
+  - name: Mountain
+    uniqueID: 3499645387
+    locked: 0
+  - name: Tunnel
+    uniqueID: 1713282509
+    locked: 0
+  - name: TrafficLights
+    uniqueID: 2375127921
+    locked: 0
+  - name: MotorwayShadow
+    uniqueID: 574074845
+    locked: 0
+  - name: DemandPin
+    uniqueID: 2248281747
+    locked: 0
+  - name: MotorwayOutline
+    uniqueID: 894568903
+    locked: 0
+  - name: Motorway
+    uniqueID: 2558670037
+    locked: 0
+  - name: MotorwayCarShadow
+    uniqueID: 4050811807
+    locked: 0
+  - name: MotorwayCar
+    uniqueID: 945983295
+    locked: 0
+  - name: MotorwayCarHeadlight
+    uniqueID: 2143638163
+    locked: 0
+  - name: Headlight
+    uniqueID: 1548775169
+    locked: 0
+  - name: InteractionCircle
+    uniqueID: 182393205
+    locked: 0
+  - name: MotorwayHandle
+    uniqueID: 1936902291
+    locked: 0
+  - name: Alert
+    uniqueID: 3626166625
+    locked: 0
+  - name: TimeoutPin
+    uniqueID: 2455176947
+    locked: 0
+  - name: OverflowPin
+    uniqueID: 582859205
+    locked: 0
+  - name: UI
+    uniqueID: 2965937187
+    locked: 0

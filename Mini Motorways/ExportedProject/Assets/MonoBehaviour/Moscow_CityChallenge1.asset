@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -868251045, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Moscow_CityChallenge1
+  m_EditorClassIdentifier:
+  challenges:
+  - {fileID: 11400000, guid: ac402b47406aee946a9e80c9c0373145, type: 2}
+  - {fileID: 11400000, guid: a705c6a3e29697442bd39b5482030bff, type: 2}
+  - {fileID: 11400000, guid: 2bdd7eeaf6db14e4095de0d8ec5723bf, type: 2}
+  titleStringId: CityChallenge_Moscow_1
+  descriptionStringId: CityChallenge_Moscow_1
+  targetScore: 0

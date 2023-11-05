@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1051835429, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Mexico_Theme_Dark
+  m_EditorClassIdentifier:
+  buildingColorGroups:
+  - {fileID: 11400000, guid: ce1d1f6f3e6aa194ba992eec6de0f96b, type: 2}
+  - {fileID: 11400000, guid: f4b99fe9dac5b7a47b186082d26dba67, type: 2}
+  - {fileID: 11400000, guid: b2f01429843c0ff4e973c5c7dbc8b8eb, type: 2}
+  - {fileID: 11400000, guid: 3ae8aab45ac2be2489ae800575cdde95, type: 2}
+  - {fileID: 11400000, guid: 1f48fa7f5d1430c46a4f83b094ff9374, type: 2}
+  - {fileID: 11400000, guid: 42df29321700aaf47acf493799638fe5, type: 2}
+  themedColors:
+  - {fileID: 11400000, guid: daaaffd5d7f236143afe0b305f21874f, type: 2}
+  - {fileID: 11400000, guid: 8d4bfda1e90e2ed478f5ba58b79a7584, type: 2}
+  - {fileID: 11400000, guid: 0d74187d50a5a4b4bb78d81dde1dff97, type: 2}
+  - {fileID: 11400000, guid: 9b7808e7b48d2c147955757967a94d90, type: 2}
+  - {fileID: 11400000, guid: 7c9d8dddd38da874eb76d23ae266932c, type: 2}
+  - {fileID: 11400000, guid: e59c62f76f5996b43be02d108e92833f, type: 2}
+  - {fileID: 11400000, guid: 96e7abe96f1f49447b61ce939f460166, type: 2}
+  deleteModeOverrides: {fileID: 11400000, guid: 710204d8cc54dad46b1dc84f721e3139, type: 2}
+  overrideDarkenMultiplier: 0.733
+  overrideSaturationMultiplier: 0.72
+  additionalDeleteModeOverrides: []
+  customDeleteModeOverrides: {fileID: 11400000, guid: eee5b74d7cff4e24391c17a22385a541, type: 2}
+  screenBackgroundBlur:
+    blurLevelsRange: 0.1
+    blurLevelsOffset: 0.25

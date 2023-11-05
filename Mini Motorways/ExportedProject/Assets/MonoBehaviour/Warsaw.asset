@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1196374876, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Warsaw
+  m_EditorClassIdentifier:
+  cityName: Warsaw
+  mapName: Warsaw
+  mapDescription: WarsawDescription
+  mapAssetBundle: warsaw
+  mapPrefabName: Warsaw
+  themes:
+  - {fileID: 11400000, guid: 2171445e0d6cd09489ad31edfba882ef, type: 2}
+  - {fileID: 11400000, guid: bd45198b8ea13694a890cc46659bce18, type: 2}
+  - {fileID: 11400000, guid: 6021a17c69188ab438c44cde7117e68e, type: 2}
+  - {fileID: 11400000, guid: e3f044256e5c8614e8db5d7f13082352, type: 2}
+  - {fileID: 11400000, guid: 983d29dbe31f57e409eddc5c0eebe4a5, type: 2}
+  themePreviewSprites:
+  - {fileID: 21300000, guid: 08ccb5ff39b717c46bbcffb09892ad8d, type: 2}
+  - {fileID: 21300000, guid: 1c8d76d0dc2ddbe469df96ba9a036d47, type: 2}
+  - {fileID: 21300000, guid: 5586cd8bb6b7285469052ebd71fba8ea, type: 2}
+  - {fileID: 21300000, guid: 5586cd8bb6b7285469052ebd71fba8ea, type: 2}
+  - {fileID: 21300000, guid: 1c8d76d0dc2ddbe469df96ba9a036d47, type: 2}
+  availableUpgrades: 0000000001000000020000000300000004000000
+  challengeModeTargetScore: 1000
+  cityChallenges:
+  - {fileID: 11400000, guid: 12104949df07caf44b0221182646f192, type: 2}
+  - {fileID: 11400000, guid: d6bd0a630f682424f837c8ed9f240b7b, type: 2}
+  _expertRequiredAchievement: {fileID: 11400000, guid: 310bb5ae62d42144990b54499649f143, type: 2}
+  _achievementsThatUnlockMap:
+  - {fileID: 11400000, guid: ca30163cddd760c4398b7b28d914079f, type: 2}
+  howToUnlockDescription: AchievementDescription_Wellington_Score_1
+  isMetroCrossoverMap: 0

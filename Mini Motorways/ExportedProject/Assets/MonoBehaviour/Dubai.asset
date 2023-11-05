@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1196374876, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Dubai
+  m_EditorClassIdentifier:
+  cityName: Dubai
+  mapName: Dubai
+  mapDescription: DubaiDescription
+  mapAssetBundle: dubai
+  mapPrefabName: Dubai
+  themes:
+  - {fileID: 11400000, guid: 2bcd69d0c7ccc674d8d0e64914b11d6c, type: 2}
+  - {fileID: 11400000, guid: 649e32727bc70a54c9aea3bc6287e3a8, type: 2}
+  - {fileID: 11400000, guid: 285466bb007994a4fb902aedc0c5ede7, type: 2}
+  - {fileID: 11400000, guid: e3f044256e5c8614e8db5d7f13082352, type: 2}
+  - {fileID: 11400000, guid: 983d29dbe31f57e409eddc5c0eebe4a5, type: 2}
+  themePreviewSprites:
+  - {fileID: 21300000, guid: 62c0b30f2b3d5a242ba58dd8ed5a6812, type: 2}
+  - {fileID: 21300000, guid: 4c1aff8638e65aa4aae7897fa8aa57d4, type: 2}
+  - {fileID: 21300000, guid: fc2d14c5f46602d4ea773e760a6e94ac, type: 2}
+  - {fileID: 21300000, guid: fc2d14c5f46602d4ea773e760a6e94ac, type: 2}
+  - {fileID: 21300000, guid: 4c1aff8638e65aa4aae7897fa8aa57d4, type: 2}
+  availableUpgrades: 0000000001000000020000000300000004000000
+  challengeModeTargetScore: 1000
+  cityChallenges:
+  - {fileID: 11400000, guid: 3f0f8290fec1e044982c48ca93bbf394, type: 2}
+  - {fileID: 11400000, guid: f2208235b5cb8594d83efe4ddfe85642, type: 2}
+  _expertRequiredAchievement: {fileID: 11400000, guid: d477351599629ae469c6a727babf3768, type: 2}
+  _achievementsThatUnlockMap:
+  - {fileID: 11400000, guid: 125d0009661769b4fad283e1369823ec, type: 2}
+  howToUnlockDescription: AchievementDescription_RioDeJaneiro_Score_1
+  isMetroCrossoverMap: 0

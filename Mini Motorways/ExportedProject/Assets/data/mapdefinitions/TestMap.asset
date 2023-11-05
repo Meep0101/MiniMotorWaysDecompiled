@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1196374876, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: TestMap
+  m_EditorClassIdentifier:
+  cityName: None
+  mapName: 4
+  mapDescription: 21
+  mapAssetBundle: testlevel
+  mapPrefabName: TestLevel
+  themes:
+  - {fileID: 11400000, guid: 558372b047580a84fb54c6020b71511f, type: 2}
+  - {fileID: 11400000, guid: 4489ab056aca6fb48a01b100008999f0, type: 2}
+  - {fileID: 11400000, guid: 5ea108b496bacae4a88f27e8db984059, type: 2}
+  - {fileID: 11400000, guid: 34374aa090dd92b4395b6fda2f0c384e, type: 2}
+  - {fileID: 11400000, guid: 1c69ee4b1a9aa664bba5b1504c0dd239, type: 2}
+  themePreviewSprites:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  availableUpgrades: 00000000010000000200000003000000
+  challengeModeTargetScore: 0
+  cityChallenges: []
+  _expertRequiredAchievement: {fileID: 0}
+  _achievementsThatUnlockMap:
+  - {fileID: 0}
+  howToUnlockDescription: None
+  isMetroCrossoverMap: 0

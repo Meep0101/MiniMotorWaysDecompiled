@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 3286077870
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: core
+      Dependencies: {}
+    Info_1:
+      Name: tokyo
+      Dependencies: {}
+    Info_2:
+      Name: mexicocity
+      Dependencies: {}
+    Info_3:
+      Name: dubai
+      Dependencies: {}
+    Info_4:
+      Name: wellington
+      Dependencies: {}
+    Info_5:
+      Name: munich
+      Dependencies: {}
+    Info_6:
+      Name: london
+      Dependencies: {}
+    Info_7:
+      Name: beijing
+      Dependencies: {}
+    Info_8:
+      Name: testlevel
+      Dependencies: {}
+    Info_9:
+      Name: daressalaam
+      Dependencies: {}
+    Info_10:
+      Name: warsaw
+      Dependencies: {}
+    Info_11:
+      Name: mumbai
+      Dependencies: {}
+    Info_12:
+      Name: lisbon
+      Dependencies: {}
+    Info_13:
+      Name: riodejaneiro
+      Dependencies: {}
+    Info_14:
+      Name: manila
+      Dependencies: {}
+    Info_15:
+      Name: chiangmai
+      Dependencies: {}
+    Info_16:
+      Name: demo
+      Dependencies: {}
+    Info_17:
+      Name: test
+      Dependencies:
+        Dependency_0: core
+    Info_18:
+      Name: tutorial
+      Dependencies: {}
+    Info_19:
+      Name: moscow
+      Dependencies: {}
+    Info_20:
+      Name: zurich
+      Dependencies: {}
+    Info_21:
+      Name: newyorkcity
+      Dependencies: {}
+    Info_22:
+      Name: losangeles
+      Dependencies: {}
+    Info_23:
+      Name: busan
+      Dependencies: {}

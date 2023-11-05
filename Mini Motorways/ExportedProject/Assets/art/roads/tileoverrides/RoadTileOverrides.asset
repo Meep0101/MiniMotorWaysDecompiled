@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 906367457, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: RoadTileOverrides
+  m_EditorClassIdentifier:
+  meshOverrides:
+  - directions: 5
+    meshes:
+      roadMesh: {fileID: 0}
+      outlineMesh: {fileID: 0}
+      dashedOutlineMesh: {fileID: 4300000, guid: 6522a8b1ab33eef4bb74ed96f1465778, type: 2}
+  - directions: 1
+    meshes:
+      roadMesh: {fileID: 0}
+      outlineMesh: {fileID: 0}
+      dashedOutlineMesh: {fileID: 4300000, guid: e3fd3fdc0ae635c438544b96263fd1c0, type: 2}
+  - directions: 3
+    meshes:
+      roadMesh: {fileID: 0}
+      outlineMesh: {fileID: 0}
+      dashedOutlineMesh: {fileID: 4300000, guid: 4ea543877932b7d4681f02ceaf9a27c1, type: 2}
+  - directions: 17
+    meshes:
+      roadMesh: {fileID: 0}
+      outlineMesh: {fileID: 0}
+      dashedOutlineMesh: {fileID: 4300000, guid: 3998f7759738b8741ba9b60cc4836941, type: 2}
+  - directions: 9
+    meshes:
+      roadMesh: {fileID: 0}
+      outlineMesh: {fileID: 0}
+      dashedOutlineMesh: {fileID: 4300000, guid: 60dc3a553b4a637449f6ccc4e58c95ac, type: 2}
+  - directions: 6
+    meshes:
+      roadMesh: {fileID: 0}
+      outlineMesh: {fileID: 0}
+      dashedOutlineMesh: {fileID: 4300000, guid: 2656bb9dca8ef064a8fd83f594fba6a4, type: 2}
+  - directions: 18
+    meshes:
+      roadMesh: {fileID: 0}
+      outlineMesh: {fileID: 0}
+      dashedOutlineMesh: {fileID: 4300000, guid: 57beb063a9786cb4abdd2f654680199f, type: 2}
+  - directions: 10
+    meshes:
+      roadMesh: {fileID: 0}
+      outlineMesh: {fileID: 0}
+      dashedOutlineMesh: {fileID: 4300000, guid: 119962b6259abb947adeb11b1018f601, type: 2}
+  - directions: 34
+    meshes:
+      roadMesh: {fileID: 0}
+      outlineMesh: {fileID: 0}
+      dashedOutlineMesh: {fileID: 4300000, guid: 56c4e75f9ba478b4b9887378bd50cc0d, type: 2}
+  - directions: 2
+    meshes:
+      roadMesh: {fileID: 0}
+      outlineMesh: {fileID: 0}
+      dashedOutlineMesh: {fileID: 4300000, guid: 484db255d70439d44b34d111f3634c39, type: 2}

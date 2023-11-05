@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1196374876, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: RioDeJaneiro
+  m_EditorClassIdentifier:
+  cityName: RioDeJaneiro
+  mapName: RioDeJaneiro
+  mapDescription: RioDeJaneiroDescription
+  mapAssetBundle: riodejaneiro
+  mapPrefabName: RioDeJaneiro
+  themes:
+  - {fileID: 11400000, guid: 5b654372b2cf9c140b45b35819edd4a9, type: 2}
+  - {fileID: 11400000, guid: ca8d1f21bf112854890f947e80a098ad, type: 2}
+  - {fileID: 11400000, guid: 41b196a6ffa43924e910c3dcb4795da5, type: 2}
+  - {fileID: 11400000, guid: e3f044256e5c8614e8db5d7f13082352, type: 2}
+  - {fileID: 11400000, guid: 983d29dbe31f57e409eddc5c0eebe4a5, type: 2}
+  themePreviewSprites:
+  - {fileID: 21300000, guid: 389710ff2369d794facfe013da6cbdb8, type: 2}
+  - {fileID: 21300000, guid: 34cd363afd5fdd44f957e4db19accc2c, type: 2}
+  - {fileID: 21300000, guid: d4d51e65f37d3ba4eb2213573f1378d5, type: 2}
+  - {fileID: 21300000, guid: d4d51e65f37d3ba4eb2213573f1378d5, type: 2}
+  - {fileID: 21300000, guid: 34cd363afd5fdd44f957e4db19accc2c, type: 2}
+  availableUpgrades: 000000000100000002000000030000000500000004000000
+  challengeModeTargetScore: 1000
+  cityChallenges:
+  - {fileID: 11400000, guid: ba8fc02e8ef459a4091aa08d4b9e104b, type: 2}
+  - {fileID: 11400000, guid: e63a2b9ff6df75b49a87ace25b70f2a6, type: 2}
+  _expertRequiredAchievement: {fileID: 11400000, guid: 9cf1ae9dd7837cf4287eed15498a571e, type: 2}
+  _achievementsThatUnlockMap:
+  - {fileID: 11400000, guid: df04bbd83a0b0d14c9881db4d6094aca, type: 2}
+  howToUnlockDescription: AchievementDescription_Manila_Score_1
+  isMetroCrossoverMap: 0

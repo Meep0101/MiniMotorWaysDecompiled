@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1051835429, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Moscow_Theme_Dark
+  m_EditorClassIdentifier:
+  buildingColorGroups:
+  - {fileID: 11400000, guid: 749e05a5ec6a03b49b5c0c1c40e57f3b, type: 2}
+  - {fileID: 11400000, guid: 0883f4dbb456a8643b256b81263c54ca, type: 2}
+  - {fileID: 11400000, guid: 33c9d6d6a9316374cb7f14109050e2fe, type: 2}
+  - {fileID: 11400000, guid: cf1cdb5f0e7e9d64dba617408e00949e, type: 2}
+  - {fileID: 11400000, guid: 472073d38a06d2a48934e9822b002d36, type: 2}
+  - {fileID: 11400000, guid: a9bcef553c5195842adcc51a52d9a2d9, type: 2}
+  themedColors:
+  - {fileID: 11400000, guid: daaaffd5d7f236143afe0b305f21874f, type: 2}
+  - {fileID: 11400000, guid: 53cf2356a15989f42b17b52bdc9a616c, type: 2}
+  - {fileID: 11400000, guid: 6db106b11d704ef4e8e22b34678a912f, type: 2}
+  - {fileID: 11400000, guid: 2d76e0b7eb9e44b489be0c8c5cc2e25d, type: 2}
+  - {fileID: 11400000, guid: faafd34c1a54c954eb1bc747924dfbd2, type: 2}
+  - {fileID: 11400000, guid: 41713378ed6775142ac5aaaa2b8a8876, type: 2}
+  - {fileID: 11400000, guid: 96e7abe96f1f49447b61ce939f460166, type: 2}
+  deleteModeOverrides: {fileID: 11400000, guid: 710204d8cc54dad46b1dc84f721e3139, type: 2}
+  overrideDarkenMultiplier: 0.733
+  overrideSaturationMultiplier: 0.72
+  additionalDeleteModeOverrides: []
+  customDeleteModeOverrides: {fileID: 11400000, guid: 401d7f5c332c03e46b1b64dc57b47ef0, type: 2}
+  screenBackgroundBlur:
+    blurLevelsRange: 0.1
+    blurLevelsOffset: 0.25

@@ -1,0 +1,440 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1489021473, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: VisualConstantsData
+  m_EditorClassIdentifier:
+  _profileIconOptions:
+  - {fileID: 21300000, guid: e7a94887ddb66b2419d17239f42deb7d, type: 2}
+  - {fileID: 21300000, guid: 1e8fa0547c22bc74aaa229b8c0914b0b, type: 2}
+  - {fileID: 21300000, guid: 359912c22399d6e408629983778d0c50, type: 2}
+  - {fileID: 21300000, guid: 96c1559bd82b811439bb3218422c92ac, type: 2}
+  - {fileID: 21300000, guid: f79038e050078e0499379d189c37cf24, type: 2}
+  - {fileID: 21300000, guid: 193dac64d6bde414e86b125ebabb66a4, type: 2}
+  InGameMessageAppearEasingFunction: 20
+  InGameMessageAppearEasingDuration: 0.6
+  InGameMessageDismissIcon: {fileID: 21300000, guid: 48d67f890cab1b94f84a32f426b8db69, type: 2}
+  InGameMessageQueuedIcon: {fileID: 21300000, guid: 3296c5cd0255eb143b3fc5b399d80167, type: 2}
+  RepeatRecentErrorTimeWindow: 5
+  RepeatRecentErrorCount: 3
+  TimeAfterIconAppearsWhenNotificationAppears: 1
+  BuildingEchoAlertColor: 1
+  UpgradeAlertColor: 1
+  CooldownTimeBetweenNewPins: 0.5
+  PostponementForNewPinsAfterPinRemoved: 2
+  PostponementForOverflowPinsAfterBigPin: 1
+  MinOvercrowdingTimeBeforeTimerPin: 0.8
+  FirstPartTransitionInEaseCurve:
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0.00044904422
+      outSlope: 0.00044904422
+      weightedMode: 2
+      inWeight: 0
+      outWeight: 0.6674536
+    - time: 0.54469186
+      value: 0.2744122
+      inSlope: 1.3570768
+      outSlope: 1.3570768
+      weightedMode: 3
+      inWeight: 0.31446835
+      outWeight: 0.19905658
+    - time: 1
+      value: 1
+      inSlope: 1.6622058
+      outSlope: 1.6622058
+      weightedMode: 1
+      inWeight: 0.41062245
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  SecondPartTransitionInEaseCurve:
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 4.587541
+      outSlope: 4.587541
+      weightedMode: 2
+      inWeight: 0
+      outWeight: 0.1907237
+    - time: 0.67283565
+      value: 0.97138625
+      inSlope: 0.28139764
+      outSlope: 0.28139764
+      weightedMode: 3
+      inWeight: 0.4003213
+      outWeight: 0.30053797
+    - time: 1
+      value: 1
+      inSlope: 0.0061377552
+      outSlope: 0.0061377552
+      weightedMode: 1
+      inWeight: 0.36521065
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  FirstPartTransitionOutEaseCurve:
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0.006073188
+      outSlope: 0.006073188
+      weightedMode: 2
+      inWeight: 0
+      outWeight: 0.3692623
+    - time: 0.21252893
+      value: 0.036511876
+      inSlope: 0.60518396
+      outSlope: 0.60518396
+      weightedMode: 3
+      inWeight: 0.29977903
+      outWeight: 0.19469962
+    - time: 1.0000598
+      value: 0.9988408
+      inSlope: 1.4467143
+      outSlope: 1.4467143
+      weightedMode: 1
+      inWeight: 0.36157608
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  SecondPartTransitionOutEaseCurve:
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 1.7180753
+      outSlope: 1.8380798
+      weightedMode: 2
+      inWeight: 0
+      outWeight: 0.22454551
+    - time: 0.48224914
+      value: 0.8568966
+      inSlope: 1.2613392
+      outSlope: 1.2613392
+      weightedMode: 3
+      inWeight: 0.33333334
+      outWeight: 0.24399747
+    - time: 1
+      value: 1
+      inSlope: 0.036247153
+      outSlope: 0.036247153
+      weightedMode: 1
+      inWeight: 0.26146364
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  PercentageOfDurationToUseForInitialMovement: 0.35
+  MapSelectScreenExitOffset:
+    x: 100
+    y: 0
+  MapSelectScreenEntryOffset:
+    x: 60
+    y: -30
+  MapSelectScreenEntryStartHandle:
+    x: 0
+    y: 0
+  MapSelectScreenEntryEndHandle:
+    x: 0
+    y: -10
+  AppearDuration: 0.39
+  OutlineAppearCurve:
+    m_Curve:
+    - time: 0
+      value: -0.0012817383
+      inSlope: 5.2619104
+      outSlope: 5.2619104
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.06906893
+    - time: 0.21486828
+      value: 0.65422994
+      inSlope: 1.966266
+      outSlope: 1.966266
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.04749938
+    - time: 0.8
+      value: 1.0011749
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  InnerAppearCurve:
+    m_Curve:
+    - time: 0.23
+      value: 0
+      inSlope: 5.354268
+      outSlope: 5.354268
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.05095835
+    - time: 0.44347775
+      value: 0.6775981
+      inSlope: 1.7539243
+      outSlope: 1.7539243
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.03870815
+    - time: 0.9995084
+      value: 1
+      inSlope: -0.019479727
+      outSlope: -0.019479727
+      weightedMode: 0
+      inWeight: 0.37749755
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  DisappearDuration: 0.11
+  DisappearCurve:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: -0.046704117
+      outSlope: -0.046704117
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.42770284
+    - time: 1
+      value: 0
+      inSlope: -2.5929875
+      outSlope: -2.5929875
+      weightedMode: 0
+      inWeight: 0.023011625
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  DeadEndEmergeDuration: 0.1
+  DeadEndEmergeEasingFunction: 5
+  DeadEndCollapseDuration: 0.33
+  DeadEndCollapseEasingFunction: 5
+  DeadEndEditDistortionStartDuration: 0.13
+  DeadEndEditDistortionStartEasingFunction: 2
+  DeadEndEditDistortionReturnDuration: 0.1
+  DeadEndEditDistortionReturnEasingFunction: 5
+  RoadDrawingStepDistance: 1.68
+  DiagonalRoadDrawingStepDistance: 1.55
+  InteractionCircleOffsetAdjustmentDuration: 1
+  TrafficLightsOffsetAdjustmentDuration: 1
+  InteractionCircleAndTrafficLightAdjustmentEasingFunction: 5
+  DryingRoadFalloff:
+    m_Curve:
+    - time: -0.0018730164
+      value: 0
+      inSlope: 0.011918927
+      outSlope: 0.011918927
+      weightedMode: 3
+      inWeight: 0
+      outWeight: 0.5925235
+    - time: 1
+      value: 1
+      inSlope: 2.7379003
+      outSlope: 2.7379003
+      weightedMode: 0
+      inWeight: 0.04299063
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  DryingMotorwayHazardStripesFalloff:
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1
+      value: 1
+      inSlope: 2
+      outSlope: 2
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  DryingTunnelFalloff:
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1
+      value: 1
+      inSlope: 2
+      outSlope: 2
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  MaxDryingTunnelOpacity: 0.5
+  DryingInteractionCircleFalloff:
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  UpgradeBarSeparationPadding: 30
+  UpgradeBarSeparationPaddingWithCount: 59
+  UpgradeBarRightSeparationPadding: 62
+  AvailableColorfulColorBlindColorGroups:
+  - {fileID: 11400000, guid: e4c9112db70c5304187014cced2b7e85, type: 2}
+  - {fileID: 11400000, guid: 451812bc7db884645926a05ea20022e2, type: 2}
+  - {fileID: 11400000, guid: fc161eef5b4a3964da24033c3942d98d, type: 2}
+  - {fileID: 11400000, guid: d28d81a2cadb6384c954763b64a2eced, type: 2}
+  - {fileID: 11400000, guid: 3c27f30014cda4d42a4ac49421020b96, type: 2}
+  - {fileID: 11400000, guid: d014fa731495ccc478f662488a27ca50, type: 2}
+  - {fileID: 11400000, guid: 5ad7fe2f3d0db284ba8d1edcf0a5fdbb, type: 2}
+  - {fileID: 11400000, guid: 49e4adfedf6c0ba4eb1354a20e3cf427, type: 2}
+  - {fileID: 11400000, guid: 8e2acda913869644abde71925303fd79, type: 2}
+  - {fileID: 11400000, guid: 4989ba6e2935ad04da99be5463de743d, type: 2}
+  - {fileID: 11400000, guid: 0430bfd0d23a0064e8e3a2db05c1e683, type: 2}
+  - {fileID: 11400000, guid: ff587fa0101f03d459f86113188095f1, type: 2}
+  AvailableDarkColorBlindColorGroups:
+  - {fileID: 11400000, guid: 3e56e2139f9eeb84baa33c522ed4c931, type: 2}
+  - {fileID: 11400000, guid: 440e6a5085b7fc445befec4d1bd814fc, type: 2}
+  - {fileID: 11400000, guid: 54fb4485bb3b2d84aa61661ca13105bd, type: 2}
+  - {fileID: 11400000, guid: 63cd1d6dc1c042f408ad6e21a5a1ff3b, type: 2}
+  - {fileID: 11400000, guid: 7f17907ed6b79b94992d0b75b7768003, type: 2}
+  - {fileID: 11400000, guid: 03235f2c7a0768c4e99c216d90546441, type: 2}
+  - {fileID: 11400000, guid: 0a945377361501a4ea06878196286a02, type: 2}
+  - {fileID: 11400000, guid: 5863ce6680dd2c74fa3f347e2268c795, type: 2}
+  - {fileID: 11400000, guid: 4be99c46bc6118e41af83191b025535a, type: 2}
+  - {fileID: 11400000, guid: 89fbc5201ed247d47b437ec531060879, type: 2}
+  - {fileID: 11400000, guid: 5e127550318e6f046930c60e6dcc1ef2, type: 2}
+  - {fileID: 11400000, guid: 1eab9e96e8fda7b4badd6a502f21a650, type: 2}
+  MeanVehicleHeadlightResponseTime: 0.95
+  StandardDeviationVehicleHeadlightResponseTime: 0.6
+  TrainShadowOffset: 0.5
+  TrainHeadlightSwitchTransitionTime: 0.5
+  TrainHeadlightSwitchTransitionEasingFunction: 1
+  TrainHeadlightDayNightTransitionTime: 0.5
+  TrainHeadlightDayNightTransitionEasingFunction: 0
+  ControllerAccelerationCurve:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - time: 0.8
+      value: 1.5
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.04128585
+    - time: 4
+      value: 1.5
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  BaseControllerSpeedOverZoom:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1
+      value: 1.25
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  BaseControllerSpeed: 7.8
+  ShowGridOnZoom: 1
+  ZoomLevelsCameraMin:
+  - 10
+  - 9
+  - 8
+  - 6
+  - 5
+  PanningSpeedPerZoomLevel:
+  - 0.8
+  - 0.6
+  - 0.6
+  - 0.6
+  - 0.4
+  ControllerSpeedSensitivityOptions:
+  - 0.4
+  - 0.7
+  - 1
+  - 1.4
+  - 1.8
+  NormalTabButtonColor:
+    r: 0.5921569
+    g: 0.7450981
+    b: 0.7490196
+    a: 1
+  EndlessTabButtonColor:
+    r: 0.5058824
+    g: 0.7137255
+    b: 0.91764706
+    a: 1
+  ExpertTabButtonColor:
+    r: 0.9529412
+    g: 0.5019608
+    b: 0.5411765
+    a: 1
+  ExpertPermanentRoadsFadeLength: 0.157
+  ExpertPermanentRoadsFadeDuration: 0.1
+  RemoveHarshAngles: 1
+  PermanenceDebugViewOpacity: 0
+  PermanenceDebugViewZoneIndex: 33
+  RailWidth: 0.1
+  RailNotchWidth: 0.2
+  RailNotchLength: 0.6
+  RailEndLength: 1.4
+  RailNotchCornerRadius: 0.06

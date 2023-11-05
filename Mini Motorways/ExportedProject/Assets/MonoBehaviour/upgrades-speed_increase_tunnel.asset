@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1835265200, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: upgrades-speed_increase_tunnel
+  m_EditorClassIdentifier:
+  challengeName: Challenge_Upgrades_SpeedIncreaseTunnelTitle
+  challengeDescription: Challenge_Upgrades_SpeedIncreaseTunnelDescription
+  icon: {fileID: 21300000, guid: af7c2024c78ef884cbe1658acc0ec25c, type: 2}
+  subIconBackground: {fileID: 21300000, guid: 35d0bbb813b231c4a89d78c6f77085a0, type: 2}
+  subIcon: {fileID: 21300000, guid: 09fcbab4e764518449206b6fdb2d9f2b, type: 2}
+  modifiers:
+  - type: 21
+    upgradeType: 5
+    intParameter: 2
+    fix64Parameter:
+      m_rawValue: 25769803776
+  modifierToUseForLocalization: 0
+  incompatibleMaps:
+  incompatibleCityGroups:
+  - {fileID: 11400000, guid: 01a4968c29c9cc247a4c16e87bbc6187, type: 2}
+  automaticIncompatibleChallenges:
+  - {fileID: 11400000, guid: fd1d4458bc590074daced8f7832f3390, type: 2}
+  - {fileID: 11400000, guid: 2362199c56946124cb6ef4dd82eb2c97, type: 2}
+  - {fileID: 11400000, guid: 946e8a538f128ab4c8688d8fdba1dfd2, type: 2}
+  - {fileID: 11400000, guid: 74d7ccb95526041439925c728416437c, type: 2}
+  - {fileID: 11400000, guid: 824c6ed6059a86a47842cb8857abc318, type: 2}
+  - {fileID: 11400000, guid: 44487ce0f67e4f044a5e8774e69ec385, type: 2}
+  - {fileID: 11400000, guid: d70fd639d7178894eae0661443bf02d6, type: 2}
+  - {fileID: 11400000, guid: 8d1b7e9866391be46a2f60e6909c61c6, type: 2}
+  - {fileID: 11400000, guid: 6f717874885de0f43bf3cdf438045a26, type: 2}
+  manualIncompatibleChallenges: []

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1051835429, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Lisbon_Theme_Colorful
+  m_EditorClassIdentifier:
+  buildingColorGroups:
+  - {fileID: 11400000, guid: 524740335e507fa42ba9d2332228d1fb, type: 2}
+  - {fileID: 11400000, guid: c2834fd7672f5bf4c92a092028d625fa, type: 2}
+  - {fileID: 11400000, guid: 022059fe64cbb9848999625c47e9b979, type: 2}
+  - {fileID: 11400000, guid: 04dce75c8f1ac374fb9d7493412d1e17, type: 2}
+  - {fileID: 11400000, guid: 45a20848ce4e9e5448247e6edc6f81d0, type: 2}
+  - {fileID: 11400000, guid: f1e79e77e086a964cbdd96c1ea101140, type: 2}
+  themedColors:
+  - {fileID: 11400000, guid: 1d726f43da598f144ae2e071f4f23354, type: 2}
+  - {fileID: 11400000, guid: e8559d0b298e8804b8fac81efba03623, type: 2}
+  - {fileID: 11400000, guid: 3d417decc3b313740bd8fed1ab1d7053, type: 2}
+  - {fileID: 11400000, guid: 982a203a9696c3145b030a3eade2f068, type: 2}
+  - {fileID: 11400000, guid: d88e2d858ca1c1342ae340ca87f58dca, type: 2}
+  - {fileID: 11400000, guid: 0a2d4a0dbec897544ab0207772776134, type: 2}
+  - {fileID: 11400000, guid: 96e7abe96f1f49447b61ce939f460166, type: 2}
+  deleteModeOverrides: {fileID: 11400000, guid: 710204d8cc54dad46b1dc84f721e3139, type: 2}
+  overrideDarkenMultiplier: 0.749
+  overrideSaturationMultiplier: 0.759
+  additionalDeleteModeOverrides: []
+  customDeleteModeOverrides: {fileID: 11400000, guid: d93de1492be233747873853fc8e3cb36, type: 2}
+  screenBackgroundBlur:
+    blurLevelsRange: 0.15
+    blurLevelsOffset: 0.8

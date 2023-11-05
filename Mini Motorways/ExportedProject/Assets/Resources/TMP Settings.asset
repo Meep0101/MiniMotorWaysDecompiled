@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -395462249, guid: 67dfb1fdfb2b407222eda8e23ac8b724, type: 3}
+  m_Name: TMP Settings
+  m_EditorClassIdentifier:
+  m_enableWordWrapping: 1
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  m_enableTintAllSprites: 0
+  m_enableParseEscapeCharacters: 1
+  m_EnableRaycastTarget: 1
+  m_GetFontFeaturesAtRuntime: 1
+  m_missingGlyphCharacter: 9633
+  m_warningsDisabled: 0
+  m_defaultFontAsset: {fileID: 11400000, guid: 18f5578734289834b9a7fa7f8c801bc7, type: 2}
+  m_defaultFontAssetPath: Fonts & Materials/
+  m_defaultFontSize: 36
+  m_defaultAutoSizeMinRatio: 0.5
+  m_defaultAutoSizeMaxRatio: 2
+  m_defaultTextMeshProTextContainerSize: {x: 20, y: 5}
+  m_defaultTextMeshProUITextContainerSize: {x: 200, y: 50}
+  m_autoSizeTextContainer: 0
+  m_IsTextObjectScaleStatic: 0
+  m_fallbackFontAssets:
+  - {fileID: 11400000, guid: c13197a31e43c8e439cd99e8c767e47a, type: 2}
+  - {fileID: 11400000, guid: fe00b256d5793be44b371c7bd96d8788, type: 2}
+  - {fileID: 11400000, guid: b494f0d6bb9143a40aa45f4527d4831b, type: 2}
+  - {fileID: 11400000, guid: 7d7b63cc4f01a1145808d476001112bd, type: 2}
+  - {fileID: 11400000, guid: 74f75e389da0e694a849ba63a9189987, type: 2}
+  m_matchMaterialPreset: 1
+  m_defaultSpriteAsset: {fileID: 11400000, guid: 9906c124d7fe82b4fa505cc563ae12ab, type: 2}
+  m_defaultSpriteAssetPath: SpriteAssets/
+  m_enableEmojiSupport: 1
+  m_MissingCharacterSpriteUnicode: 0
+  m_defaultColorGradientPresetsPath: Color Gradient Presets/
+  m_defaultStyleSheet: {fileID: 11400000, guid: 856f343faa76a6c459cb7376dbc4c4a3, type: 2}
+  m_StyleSheetsResourcePath:
+  m_leadingCharacters: {fileID: 4900000, guid: 4d2b9e4637588e3479cb544431b17cb9, type: 3}
+  m_followingCharacters: {fileID: 4900000, guid: 1b8ca19eccfcb1045ac3c34cef3a64f9, type: 3}
+  m_UseModernHangulLineBreakingRules: 0

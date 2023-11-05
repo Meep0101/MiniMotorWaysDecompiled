@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1196374876, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Zurich
+  m_EditorClassIdentifier:
+  cityName: Zurich
+  mapName: Zurich
+  mapDescription: ZurichDescription
+  mapAssetBundle: zurich
+  mapPrefabName: Zurich
+  themes:
+  - {fileID: 11400000, guid: 05e05e7401671a442959c3c651011a08, type: 2}
+  - {fileID: 11400000, guid: e2e3ed28e06599049988b87e344c163c, type: 2}
+  - {fileID: 11400000, guid: d714ab6bb6505c34884b16c9e7613be2, type: 2}
+  - {fileID: 11400000, guid: e3f044256e5c8614e8db5d7f13082352, type: 2}
+  - {fileID: 11400000, guid: 983d29dbe31f57e409eddc5c0eebe4a5, type: 2}
+  themePreviewSprites:
+  - {fileID: 21300000, guid: eeb952d0919d865408c04592ed4f35e3, type: 2}
+  - {fileID: 21300000, guid: eef8919a9fb152c499c5d0a9182c1d02, type: 2}
+  - {fileID: 21300000, guid: 4d42d05b4405c0b4c8af65e1f226364b, type: 2}
+  - {fileID: 21300000, guid: 4d42d05b4405c0b4c8af65e1f226364b, type: 2}
+  - {fileID: 21300000, guid: eef8919a9fb152c499c5d0a9182c1d02, type: 2}
+  availableUpgrades: 000000000100000002000000030000000500000004000000
+  challengeModeTargetScore: 1000
+  cityChallenges:
+  - {fileID: 11400000, guid: dd8218f6bed9a4d49b95ec6983eb5fa0, type: 2}
+  - {fileID: 11400000, guid: 4b068a65b7b24c446bb5fca712df32a3, type: 2}
+  _expertRequiredAchievement: {fileID: 11400000, guid: 5841f7c2a926c154c89c5de5df785f2c, type: 2}
+  _achievementsThatUnlockMap:
+  - {fileID: 11400000, guid: 3e1dbdd09a34cfb4eae4d61b5ec86bb2, type: 2}
+  - {fileID: 11400000, guid: 549eec0661b29d44a8e9bbea3cc33ced, type: 2}
+  howToUnlockDescription: AchievementDescription_MoscowOrMunich_Score_1
+  isMetroCrossoverMap: 0

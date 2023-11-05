@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1196374876, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Busan
+  m_EditorClassIdentifier:
+  cityName: Busan
+  mapName: Busan
+  mapDescription: BusanDescription
+  mapAssetBundle: busan
+  mapPrefabName: Busan
+  themes:
+  - {fileID: 11400000, guid: 49fd0957ead177c4185d910f5e378741, type: 2}
+  - {fileID: 11400000, guid: db8b03a08d8cf2641ac6ca6f2371d34e, type: 2}
+  - {fileID: 11400000, guid: 82e7e5276ee24df44b303f825a0dd9fc, type: 2}
+  - {fileID: 11400000, guid: e3f044256e5c8614e8db5d7f13082352, type: 2}
+  - {fileID: 11400000, guid: 983d29dbe31f57e409eddc5c0eebe4a5, type: 2}
+  themePreviewSprites:
+  - {fileID: 21300000, guid: bca78f1017f845f4f9dfe65822923eda, type: 2}
+  - {fileID: 21300000, guid: 820c89423d26aae44be3423952720b47, type: 2}
+  - {fileID: 21300000, guid: 83cfc4c6f89e6af4b8d872c346d4cfed, type: 2}
+  - {fileID: 21300000, guid: 83cfc4c6f89e6af4b8d872c346d4cfed, type: 2}
+  - {fileID: 21300000, guid: 820c89423d26aae44be3423952720b47, type: 2}
+  availableUpgrades: 0000000001000000020000000300000004000000
+  challengeModeTargetScore: 1000
+  cityChallenges:
+  - {fileID: 11400000, guid: 35fcca63f20dfc64aa898f8f4d431583, type: 2}
+  - {fileID: 11400000, guid: f49f6b5da27a5cb44a9787853e4e64b5, type: 2}
+  _expertRequiredAchievement: {fileID: 11400000, guid: 1f60c061865c68a4ba278dff7ef53157, type: 2}
+  _achievementsThatUnlockMap:
+  - {fileID: 11400000, guid: 671e92935164cd744a74aadb655f8d9e, type: 2}
+  howToUnlockDescription: AchievementDescription_Lisbon_Score_1
+  isMetroCrossoverMap: 0

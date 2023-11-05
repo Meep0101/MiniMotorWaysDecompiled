@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1196374876, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Munich
+  m_EditorClassIdentifier:
+  cityName: Munich
+  mapName: Munich
+  mapDescription: MunichDescription
+  mapAssetBundle: munich
+  mapPrefabName: Munich
+  themes:
+  - {fileID: 11400000, guid: 9219fb9bc45e1ad4a84f8120a73a13c1, type: 2}
+  - {fileID: 11400000, guid: 2e4c5aa5a849d6041bff9fed06e47fa9, type: 2}
+  - {fileID: 11400000, guid: 1427e3aa45c4a384cab7d58f6e158cba, type: 2}
+  - {fileID: 11400000, guid: e3f044256e5c8614e8db5d7f13082352, type: 2}
+  - {fileID: 11400000, guid: 983d29dbe31f57e409eddc5c0eebe4a5, type: 2}
+  themePreviewSprites:
+  - {fileID: 21300000, guid: 17165e8d42d4f674c82a95396a3a1c95, type: 2}
+  - {fileID: 21300000, guid: ea213df1e61b35541959aaf1a139fbbb, type: 2}
+  - {fileID: 21300000, guid: fb7e3c9ff8ec46b488522ed3f113a8b4, type: 2}
+  - {fileID: 21300000, guid: fb7e3c9ff8ec46b488522ed3f113a8b4, type: 2}
+  - {fileID: 21300000, guid: ea213df1e61b35541959aaf1a139fbbb, type: 2}
+  availableUpgrades: 0000000001000000020000000300000004000000
+  challengeModeTargetScore: 1000
+  cityChallenges:
+  - {fileID: 11400000, guid: c31a952fe66d8be4d8024013dfb18d70, type: 2}
+  - {fileID: 11400000, guid: d275fad08e595fd449deb10f5c3013b5, type: 2}
+  _expertRequiredAchievement: {fileID: 11400000, guid: 300c7edfe2ffc8942a2c37f06f3abc56, type: 2}
+  _achievementsThatUnlockMap:
+  - {fileID: 11400000, guid: a4c4fda81fd0a034f97caeac795a8487, type: 2}
+  howToUnlockDescription: AchievementDescription_DarEsSalaam_Score_1
+  isMetroCrossoverMap: 0

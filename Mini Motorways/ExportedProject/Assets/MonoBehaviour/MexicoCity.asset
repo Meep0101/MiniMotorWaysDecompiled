@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1196374876, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: MexicoCity
+  m_EditorClassIdentifier:
+  cityName: MexicoCity
+  mapName: MexicoCity
+  mapDescription: MexicoCityDescription
+  mapAssetBundle: mexicocity
+  mapPrefabName: Mexico
+  themes:
+  - {fileID: 11400000, guid: 54c058383ace93340916e7f898baa4f1, type: 2}
+  - {fileID: 11400000, guid: f4933fb5d4fe0f241b5bf7ecad36b1e2, type: 2}
+  - {fileID: 11400000, guid: c48b80c2c62d44d41be3af6c97ca2710, type: 2}
+  - {fileID: 11400000, guid: e3f044256e5c8614e8db5d7f13082352, type: 2}
+  - {fileID: 11400000, guid: 983d29dbe31f57e409eddc5c0eebe4a5, type: 2}
+  themePreviewSprites:
+  - {fileID: 21300000, guid: c5c306292df3fee4a9dac043b226bb9c, type: 2}
+  - {fileID: 21300000, guid: 5e06995ee87108a479f2dd203f07580e, type: 2}
+  - {fileID: 21300000, guid: 6ec8592639785084ab46d3bcd00c27fa, type: 2}
+  - {fileID: 21300000, guid: 6ec8592639785084ab46d3bcd00c27fa, type: 2}
+  - {fileID: 21300000, guid: 5e06995ee87108a479f2dd203f07580e, type: 2}
+  availableUpgrades: 0000000005000000020000000300000004000000
+  challengeModeTargetScore: 1000
+  cityChallenges:
+  - {fileID: 11400000, guid: cae7101ad436a0844b844b4a66a995bd, type: 2}
+  _expertRequiredAchievement: {fileID: 11400000, guid: 126a5077b49e78942b7c3063c5611d57, type: 2}
+  _achievementsThatUnlockMap:
+  - {fileID: 11400000, guid: f2c758f7c98654e40b124d9a5ba7db1c, type: 2}
+  howToUnlockDescription: AchievementDescription_Dubai_Score_1
+  isMetroCrossoverMap: 0

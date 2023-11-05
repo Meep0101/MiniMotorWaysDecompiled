@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1051835429, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Colorblind_Theme_Dark
+  m_EditorClassIdentifier:
+  buildingColorGroups:
+  - {fileID: 11400000, guid: 3e56e2139f9eeb84baa33c522ed4c931, type: 2}
+  - {fileID: 11400000, guid: 440e6a5085b7fc445befec4d1bd814fc, type: 2}
+  - {fileID: 11400000, guid: 54fb4485bb3b2d84aa61661ca13105bd, type: 2}
+  - {fileID: 11400000, guid: 63cd1d6dc1c042f408ad6e21a5a1ff3b, type: 2}
+  - {fileID: 11400000, guid: 7f17907ed6b79b94992d0b75b7768003, type: 2}
+  - {fileID: 11400000, guid: 03235f2c7a0768c4e99c216d90546441, type: 2}
+  themedColors:
+  - {fileID: 11400000, guid: daaaffd5d7f236143afe0b305f21874f, type: 2}
+  - {fileID: 11400000, guid: 623d499b3c99ea142910c0e3ee114741, type: 2}
+  - {fileID: 11400000, guid: f701e03a5e87d1541ba0f4b9370c85f8, type: 2}
+  - {fileID: 11400000, guid: 4d30ec4a30ad5f7459df4b95621943fb, type: 2}
+  - {fileID: 11400000, guid: 6e786ab2282d5f7448ea33a1748b57ab, type: 2}
+  - {fileID: 11400000, guid: 23e64d69d223c7e42a73afbe001f78b6, type: 2}
+  - {fileID: 11400000, guid: 96e7abe96f1f49447b61ce939f460166, type: 2}
+  deleteModeOverrides: {fileID: 11400000, guid: 710204d8cc54dad46b1dc84f721e3139, type: 2}
+  overrideDarkenMultiplier: 0.754
+  overrideSaturationMultiplier: 0.695
+  additionalDeleteModeOverrides: []
+  customDeleteModeOverrides: {fileID: 11400000, guid: dcd02aedf2a15d747a0880816e8d1e50, type: 2}
+  screenBackgroundBlur:
+    blurLevelsRange: 0.1
+    blurLevelsOffset: 0.25

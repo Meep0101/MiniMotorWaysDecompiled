@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1196374876, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Manila
+  m_EditorClassIdentifier:
+  cityName: Manila
+  mapName: Manila
+  mapDescription: ManilaDescription
+  mapAssetBundle: manila
+  mapPrefabName: Manila
+  themes:
+  - {fileID: 11400000, guid: 945ad1c3ca6e43a49b1173b4303150f6, type: 2}
+  - {fileID: 11400000, guid: 99e94303ac9116e4b83926723fe20da6, type: 2}
+  - {fileID: 11400000, guid: 238ae32b6521ffb4dbe485baf311ab97, type: 2}
+  - {fileID: 11400000, guid: e3f044256e5c8614e8db5d7f13082352, type: 2}
+  - {fileID: 11400000, guid: 983d29dbe31f57e409eddc5c0eebe4a5, type: 2}
+  themePreviewSprites:
+  - {fileID: 21300000, guid: d34bc22d4ff8d19449c8bcd7a09dad03, type: 2}
+  - {fileID: 21300000, guid: 222a6d6503cf0f64faddee0192ef6a73, type: 2}
+  - {fileID: 21300000, guid: e1e4b28e4d33db14a8cf3b3d1cddd672, type: 2}
+  - {fileID: 21300000, guid: e1e4b28e4d33db14a8cf3b3d1cddd672, type: 2}
+  - {fileID: 21300000, guid: 222a6d6503cf0f64faddee0192ef6a73, type: 2}
+  availableUpgrades: 0000000001000000020000000300000004000000
+  challengeModeTargetScore: 1000
+  cityChallenges:
+  - {fileID: 11400000, guid: dfe1f6b89f07ed14793ffe7513d2f3ff, type: 2}
+  - {fileID: 11400000, guid: c8c40032b0c62cf449ee3edd31ec8b99, type: 2}
+  _expertRequiredAchievement: {fileID: 11400000, guid: 59e75276eb8e0ec4c9eedee9163f6d46, type: 2}
+  _achievementsThatUnlockMap:
+  - {fileID: 11400000, guid: 4bc90f316e67553429dc02e2a18495f8, type: 2}
+  howToUnlockDescription: AchievementDescription_Zurich_Score_1
+  isMetroCrossoverMap: 0

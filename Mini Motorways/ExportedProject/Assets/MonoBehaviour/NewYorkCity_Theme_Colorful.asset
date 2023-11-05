@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1051835429, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: NewYorkCity_Theme_Colorful
+  m_EditorClassIdentifier:
+  buildingColorGroups:
+  - {fileID: 11400000, guid: 38783e653e8643444a071177bd5fab0a, type: 2}
+  - {fileID: 11400000, guid: e34de14c53476ff4a8a72422a0faae07, type: 2}
+  - {fileID: 11400000, guid: 84926d848cd99f44ab5bde4e6c8f92b6, type: 2}
+  - {fileID: 11400000, guid: 764d13a20af628e44a4f0b24507165ca, type: 2}
+  - {fileID: 11400000, guid: d93754fac59371048b13472bef5fa1ad, type: 2}
+  - {fileID: 11400000, guid: a9bcef553c5195842adcc51a52d9a2d9, type: 2}
+  themedColors:
+  - {fileID: 11400000, guid: 1d726f43da598f144ae2e071f4f23354, type: 2}
+  - {fileID: 11400000, guid: 75e0aed4b8bffdd45afb350dd905eba1, type: 2}
+  - {fileID: 11400000, guid: a8514646a139c35409d89c55c0a046bd, type: 2}
+  - {fileID: 11400000, guid: 9a3a8ecd62066c243a16a3e546b0b0a1, type: 2}
+  - {fileID: 11400000, guid: 891c365e519ce0e478343064e3ae301b, type: 2}
+  - {fileID: 11400000, guid: 40ccb727353886a458970780079c9f53, type: 2}
+  - {fileID: 11400000, guid: 96e7abe96f1f49447b61ce939f460166, type: 2}
+  deleteModeOverrides: {fileID: 11400000, guid: 710204d8cc54dad46b1dc84f721e3139, type: 2}
+  overrideDarkenMultiplier: 0.709
+  overrideSaturationMultiplier: 0.776
+  additionalDeleteModeOverrides: []
+  customDeleteModeOverrides: {fileID: 11400000, guid: 4e1b6b8ca1518d846ba5f7b037167fb2, type: 2}
+  screenBackgroundBlur:
+    blurLevelsRange: 0.15
+    blurLevelsOffset: 0.8

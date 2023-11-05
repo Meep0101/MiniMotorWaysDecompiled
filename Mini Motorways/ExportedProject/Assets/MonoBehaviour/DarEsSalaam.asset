@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1196374876, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: DarEsSalaam
+  m_EditorClassIdentifier:
+  cityName: DarEsSalaam
+  mapName: DarEsSalaam
+  mapDescription: DarEsSalaamDescription
+  mapAssetBundle: daressalaam
+  mapPrefabName: DarEsSalaam
+  themes:
+  - {fileID: 11400000, guid: 10196108b619420459573304c406edf7, type: 2}
+  - {fileID: 11400000, guid: 5d9d0c258467c4045ae239576f6ab199, type: 2}
+  - {fileID: 11400000, guid: 120f20f2e0a0a0049bc110a4feb52969, type: 2}
+  - {fileID: 11400000, guid: e3f044256e5c8614e8db5d7f13082352, type: 2}
+  - {fileID: 11400000, guid: 983d29dbe31f57e409eddc5c0eebe4a5, type: 2}
+  themePreviewSprites:
+  - {fileID: 21300000, guid: 4d07940e29e375744ab538ba0a37789b, type: 2}
+  - {fileID: 21300000, guid: f57aea80e7d4bee469b2fa67998d1fcc, type: 2}
+  - {fileID: 21300000, guid: 6f68b34ed5b9f5e4d886b5b46947f175, type: 2}
+  - {fileID: 21300000, guid: 6f68b34ed5b9f5e4d886b5b46947f175, type: 2}
+  - {fileID: 21300000, guid: f57aea80e7d4bee469b2fa67998d1fcc, type: 2}
+  availableUpgrades: 0000000001000000020000000300000004000000
+  challengeModeTargetScore: 1000
+  cityChallenges:
+  - {fileID: 11400000, guid: 9c49e204828ff4243a93b1841eab1f5a, type: 2}
+  _expertRequiredAchievement: {fileID: 11400000, guid: 31d438956808d2044b0b6c6fe569a648, type: 2}
+  _achievementsThatUnlockMap:
+  - {fileID: 11400000, guid: e046d7771a43d1c45803d0ae102bca03, type: 2}
+  howToUnlockDescription: AchievementDescription_DarEsSalaam_Score1_02
+  isMetroCrossoverMap: 0

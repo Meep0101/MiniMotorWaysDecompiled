@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1051835429, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: RioDeJaneiro_Theme_Dark
+  m_EditorClassIdentifier:
+  buildingColorGroups:
+  - {fileID: 11400000, guid: 843eb13867bca144db40727d326a77c1, type: 2}
+  - {fileID: 11400000, guid: 382deaaf660014b48938142b29f3c366, type: 2}
+  - {fileID: 11400000, guid: 24e52b7dc0959bb41b86e2233467cfed, type: 2}
+  - {fileID: 11400000, guid: 0dfb832b999742e448194f74b5da6a5d, type: 2}
+  - {fileID: 11400000, guid: 81edd3c055cc4284ca665c0972a57836, type: 2}
+  - {fileID: 11400000, guid: a9bcef553c5195842adcc51a52d9a2d9, type: 2}
+  themedColors:
+  - {fileID: 11400000, guid: daaaffd5d7f236143afe0b305f21874f, type: 2}
+  - {fileID: 11400000, guid: d4a8aad65347b9047befd47265d78403, type: 2}
+  - {fileID: 11400000, guid: a046ef40ad93c2349b7eecb0d95259ce, type: 2}
+  - {fileID: 11400000, guid: c7482486a65618849ab2c0a696005dc0, type: 2}
+  - {fileID: 11400000, guid: 0b29de7f88aec3e4284cb3c06fb6565e, type: 2}
+  - {fileID: 11400000, guid: faa4b7178d5d7c9429d568976680ff53, type: 2}
+  - {fileID: 11400000, guid: 96e7abe96f1f49447b61ce939f460166, type: 2}
+  deleteModeOverrides: {fileID: 11400000, guid: 710204d8cc54dad46b1dc84f721e3139, type: 2}
+  overrideDarkenMultiplier: 0.605
+  overrideSaturationMultiplier: 0.845
+  additionalDeleteModeOverrides: []
+  customDeleteModeOverrides: {fileID: 11400000, guid: 360ab9c41dc783844b9135d0de4a06cf, type: 2}
+  screenBackgroundBlur:
+    blurLevelsRange: 0.1
+    blurLevelsOffset: 0.25

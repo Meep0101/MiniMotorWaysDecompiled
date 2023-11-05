@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1051835429, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Beijing_Theme_Maps
+  m_EditorClassIdentifier:
+  buildingColorGroups:
+  - {fileID: 11400000, guid: 701f60bee7bc2d84caf5a1e75b20d7e2, type: 2}
+  - {fileID: 11400000, guid: b53a02348773b904aba835bacf878270, type: 2}
+  - {fileID: 11400000, guid: 743cac1368040e042b7fb85a046f886e, type: 2}
+  - {fileID: 11400000, guid: 0acf239e229e37240bc32e491e425bbc, type: 2}
+  - {fileID: 11400000, guid: 400e8dee4c631d94c826ab037e530118, type: 2}
+  - {fileID: 11400000, guid: a9bcef553c5195842adcc51a52d9a2d9, type: 2}
+  themedColors:
+  - {fileID: 11400000, guid: 1d726f43da598f144ae2e071f4f23354, type: 2}
+  - {fileID: 11400000, guid: adcecbf6dc5d34a4790ad3811750221d, type: 2}
+  - {fileID: 11400000, guid: 3db15cd7b87a89e4093e15f6742a29c9, type: 2}
+  - {fileID: 11400000, guid: 21d606444a866674998ba0f7adc6f60d, type: 2}
+  - {fileID: 11400000, guid: 1f9a62d1aa0fe524191e2c605795c9cb, type: 2}
+  - {fileID: 11400000, guid: 2deb9378b68312d43bd65df1cc933526, type: 2}
+  - {fileID: 11400000, guid: 96e7abe96f1f49447b61ce939f460166, type: 2}
+  deleteModeOverrides: {fileID: 11400000, guid: 710204d8cc54dad46b1dc84f721e3139, type: 2}
+  overrideDarkenMultiplier: 0.788
+  overrideSaturationMultiplier: 0.797
+  additionalDeleteModeOverrides: []
+  customDeleteModeOverrides: {fileID: 11400000, guid: 75535f6bfa310fd4fa506e6462b0c4a6, type: 2}
+  screenBackgroundBlur:
+    blurLevelsRange: 0.15
+    blurLevelsOffset: 0.8

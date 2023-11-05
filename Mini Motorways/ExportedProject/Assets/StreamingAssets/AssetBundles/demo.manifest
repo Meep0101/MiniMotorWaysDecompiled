@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3246160851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56b2bfb9a34184b90e4348eda0eaa7c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 41ed7f540f8e60f35d6235a9b68998fb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d834577fa2ffa415da88b06730d6e610, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e545b2dd58247eab7d492266563ce34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06ee92222cf464e1ead24af52b13a15f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Popups/AppleDemoCardPopup.prefab
+Dependencies: []

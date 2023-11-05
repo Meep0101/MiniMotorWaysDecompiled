@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1051835429, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Tutorial_Theme_Maps
+  m_EditorClassIdentifier:
+  buildingColorGroups:
+  - {fileID: 11400000, guid: 88332711d25031345972b4fdbb4ad8eb, type: 2}
+  - {fileID: 11400000, guid: 8d0f586d97bb0f04a9af5dc3db012563, type: 2}
+  - {fileID: 11400000, guid: b877236505f39be4682c2cd5b9472242, type: 2}
+  - {fileID: 11400000, guid: 9fb8018d97ba1e94888690211beada3c, type: 2}
+  - {fileID: 11400000, guid: 4cb9137738ad0634ba3f8770e5b0c346, type: 2}
+  - {fileID: 11400000, guid: a9bcef553c5195842adcc51a52d9a2d9, type: 2}
+  themedColors:
+  - {fileID: 11400000, guid: 1d726f43da598f144ae2e071f4f23354, type: 2}
+  - {fileID: 11400000, guid: 05cb0dcb5406f8c43b65cda36898a7b4, type: 2}
+  - {fileID: 11400000, guid: f67fd7496ad07614993d8f49fa1d1311, type: 2}
+  - {fileID: 11400000, guid: db322dbd9d053de4da0e2467c4a13178, type: 2}
+  - {fileID: 11400000, guid: 8ff3b1284a088d14782de5ffe0548519, type: 2}
+  - {fileID: 11400000, guid: 43b0ab4c00aadf3418e4560de9181b89, type: 2}
+  - {fileID: 11400000, guid: 96e7abe96f1f49447b61ce939f460166, type: 2}
+  deleteModeOverrides: {fileID: 11400000, guid: 710204d8cc54dad46b1dc84f721e3139, type: 2}
+  overrideDarkenMultiplier: 0.788
+  overrideSaturationMultiplier: 0.821
+  additionalDeleteModeOverrides: []
+  customDeleteModeOverrides: {fileID: 11400000, guid: 4aec2b76ae781274fad9172b6192ec43, type: 2}
+  screenBackgroundBlur:
+    blurLevelsRange: 0.15
+    blurLevelsOffset: 0.8

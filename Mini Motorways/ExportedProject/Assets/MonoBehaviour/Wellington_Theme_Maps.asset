@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1051835429, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Wellington_Theme_Maps
+  m_EditorClassIdentifier:
+  buildingColorGroups:
+  - {fileID: 11400000, guid: 245f3df8d9bf3c343b07a21c675c1ace, type: 2}
+  - {fileID: 11400000, guid: 8bddc08b417edda4ea8f427e4de88e53, type: 2}
+  - {fileID: 11400000, guid: be5be5457fec3ca40bdd78d4b0afb34c, type: 2}
+  - {fileID: 11400000, guid: d82372e8811bf554cb964299ff816375, type: 2}
+  - {fileID: 11400000, guid: 5b297bdcf88a36547a398f32eb147d20, type: 2}
+  - {fileID: 11400000, guid: ac59f5e6fcc921f4784d76c24568e4e9, type: 2}
+  themedColors:
+  - {fileID: 11400000, guid: 1d726f43da598f144ae2e071f4f23354, type: 2}
+  - {fileID: 11400000, guid: 4d161c17e67aee64eb97bfe29b64a04d, type: 2}
+  - {fileID: 11400000, guid: 342f04b113d038c49be1a9670b37f605, type: 2}
+  - {fileID: 11400000, guid: 7d45e22d1273b7240b1c2b2242927c2a, type: 2}
+  - {fileID: 11400000, guid: fefa072b6cb1792408525de84554d73c, type: 2}
+  - {fileID: 11400000, guid: fbd13daed8e913c4ab61c2a2b5d8f243, type: 2}
+  - {fileID: 11400000, guid: 96e7abe96f1f49447b61ce939f460166, type: 2}
+  deleteModeOverrides: {fileID: 11400000, guid: 710204d8cc54dad46b1dc84f721e3139, type: 2}
+  overrideDarkenMultiplier: 0.788
+  overrideSaturationMultiplier: 0.821
+  additionalDeleteModeOverrides: []
+  customDeleteModeOverrides: {fileID: 11400000, guid: 0cdda32a4924e5145a993124a9b67499, type: 2}
+  screenBackgroundBlur:
+    blurLevelsRange: 0.15
+    blurLevelsOffset: 0.8

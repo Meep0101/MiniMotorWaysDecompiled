@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1051835429, guid: 343f86ac616e9a8f959b5c95d5d28941, type: 3}
+  m_Name: Mexico_Theme_Maps
+  m_EditorClassIdentifier:
+  buildingColorGroups:
+  - {fileID: 11400000, guid: 316b70dbead91de4ea5359a3454f230e, type: 2}
+  - {fileID: 11400000, guid: 9938a55511d298d46b0bc4cb82f6ff68, type: 2}
+  - {fileID: 11400000, guid: 5e8229000b675894290f9745d8df9357, type: 2}
+  - {fileID: 11400000, guid: 24c9705fafd1532429700b8fb9c6c280, type: 2}
+  - {fileID: 11400000, guid: 8ba32236d79443448b5dee9dd153730d, type: 2}
+  - {fileID: 11400000, guid: e17e6d531b0243a44b351933a0be8960, type: 2}
+  themedColors:
+  - {fileID: 11400000, guid: 1d726f43da598f144ae2e071f4f23354, type: 2}
+  - {fileID: 11400000, guid: f1680703af37c7f44a0749ad65840289, type: 2}
+  - {fileID: 11400000, guid: 61fe9bb33f5c8234ca6999081fa436bb, type: 2}
+  - {fileID: 11400000, guid: 86f4d953be516eb4b9370f83b68aca64, type: 2}
+  - {fileID: 11400000, guid: 7ca418013a758a440a4229d8da0a0d78, type: 2}
+  - {fileID: 11400000, guid: 7c7afc94117e65c4cb020caae83d1cf6, type: 2}
+  - {fileID: 11400000, guid: 96e7abe96f1f49447b61ce939f460166, type: 2}
+  deleteModeOverrides: {fileID: 11400000, guid: 710204d8cc54dad46b1dc84f721e3139, type: 2}
+  overrideDarkenMultiplier: 0.788
+  overrideSaturationMultiplier: 0.821
+  additionalDeleteModeOverrides: []
+  customDeleteModeOverrides: {fileID: 11400000, guid: 96081fed82adc3a4ca1a8888d672899e, type: 2}
+  screenBackgroundBlur:
+    blurLevelsRange: 0.15
+    blurLevelsOffset: 0.8
